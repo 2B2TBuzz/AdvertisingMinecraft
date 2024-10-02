@@ -12,9 +12,9 @@ class GreetNewPlayersBot : ChatBot
     private System.Timers.Timer _timer;
     private List<string> _greetings = new List<string>
     {
-        "你好，你是114514",
-        "欢迎加入服务器！",
-        "希望你今天过得愉快！",
+        "2B2T.BUZZ 低版本无规则服务器 群号745522080",
+        "2B2T.BUZZ 邀请别人可获得物资 群号745522080",
+        "2B2T.BUZZ 超自由无反作弊 745522080",
         // 添加更多你想发送的消息
     };
 
